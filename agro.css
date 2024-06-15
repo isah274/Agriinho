@@ -1,0 +1,8 @@
+.resumo{
+  background: linear-gradient(10 deg, #68864f, #95b682);
+  border-radius: 5px;
+  padding: 10px;
+  color: #000000;
+  font-size: 20px;
+  font-family: cursive;
+}
